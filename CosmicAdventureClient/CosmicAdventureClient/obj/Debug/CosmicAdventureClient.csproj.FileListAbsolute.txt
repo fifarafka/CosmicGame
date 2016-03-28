@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2015\Projects\CosmicAdventureClient\CosmicAdventureClient\bin\Debug\CosmicAdventureClient.exe.config
+\\psf\Home\Documents\Visual Studio 2015\Projects\CosmicAdventureClient\CosmicAdventureClient\bin\Debug\CosmicAdventureClient.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\CosmicAdventureClient\CosmicAdventureClient\bin\Debug\CosmicAdventureClient.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\CosmicAdventureClient\CosmicAdventureClient\obj\Debug\CosmicAdventureClient.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\CosmicAdventureClient\CosmicAdventureClient\obj\Debug\CosmicAdventureClient.pdb

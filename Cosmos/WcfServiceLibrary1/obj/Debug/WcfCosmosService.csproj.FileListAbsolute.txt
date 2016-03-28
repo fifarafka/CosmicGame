@@ -1,0 +1,8 @@
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lab3\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lab3\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lab3\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lab3\WcfServiceLibrary1\bin\Debug\CosmicAdventureDTO.dll
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lab3\WcfServiceLibrary1\bin\Debug\CosmicAdventureDTO.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lab3\WcfServiceLibrary1\obj\Debug\WcfCosmosService.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lab3\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lab3\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

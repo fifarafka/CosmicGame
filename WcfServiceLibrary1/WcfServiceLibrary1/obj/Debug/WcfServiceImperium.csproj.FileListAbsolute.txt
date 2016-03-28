@@ -1,0 +1,5 @@
+\\psf\Home\Documents\Visual Studio 2015\Projects\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+\\psf\Home\Documents\Visual Studio 2015\Projects\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+\\psf\Home\Documents\Visual Studio 2015\Projects\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+\\psf\Home\Documents\Visual Studio 2015\Projects\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
